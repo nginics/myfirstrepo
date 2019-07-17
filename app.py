@@ -1,14 +1,30 @@
-def add(x,y):
+import sys
+print(sys.executable)
+print(sys.version)
+
+
+def add(x, y):
     pass
 
-def subtract(x,y):
+
+def subtract(x, y):
     pass
 
-def multiply(x,y):
+
+def multiply(x, y):
     return x*y
 
-def divide(x,y):
+
+def divide(x, y):
     pass
 
-def square(x,y):
+
+for n in [1, 2, 3, 4]:
+    print(n)
+
+
+def square(x, y):
     pass
+
+
+print(multiply(2, 3))
