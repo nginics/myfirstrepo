@@ -19,12 +19,5 @@ def divide(x, y):
     pass
 
 
-for n in [1, 2, 3, 4]:
-    print(n)
-
-
 def square(x, y):
     pass
-
-
-print(multiply(2, 3))
